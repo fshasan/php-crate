@@ -25,13 +25,13 @@ This repository contains a simple procedure for making a docker environment that
 - Run this script file to install the application.
 
   ```sh
-     sh start.sh
+  sh start.sh
   ```
 
   or run this
 
   ```sh
-     ./start.sh
+  ./start.sh
   ```
 
 - For checking docker containers status, run this command.
